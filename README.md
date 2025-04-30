@@ -1,6 +1,7 @@
 # Facebook Group Scraper
 
 A Python tool to search for Facebook groups based on keywords and save the results.
+<video src="tutorial.mp4" controls width="100%" style="border-radius: 10px; margin-bottom: 20px;"></video>
 
 ## Features
 
